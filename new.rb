@@ -1,7 +1,6 @@
-henri = "henri"
-
-def say_hello(name)
-  "Say hello #{name}"
+def say_hello
+  henri = "henri"
+  "Say hello" + henri
 end
 
-say_hello(henri)
+say_hello
